@@ -3,7 +3,7 @@
 <h6 align="center"><img alt="coding" width="300" src ="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif"></h6>
 
 # 💫 About Me:
-🔭 I’m currently working on Projects related to Web Development.<br>🌱 I’m a Full Stack developer and currently I'm polishing my skills on Back-End Development.<br>💬 Ask me about HTML, CSS, Java, Python.<br>📄 Know about my experiences https://drive.google.com/file/d/11zHv5pJ8sYo4HkMagzvPy-jceTqiDa9t/view?usp=sharing<br>📫 How to reach me aditiamrut@gmail.com.<br>⚡ Fun fact I am a singer and foodie as well!
+🔭 I’m currently working on Projects related to Web Development.<br>🌱 I’m a Full Stack developer and currently I'm polishing my skills on Back-End Development.<br>💬 Ask me about HTML, CSS, Java, Python.<br>📄 Know about my experiences : <a href="https://drive.google.com/file/d/1NYyIacUBNZA_SL3uxjo5afLHjpdjz2GP/view?usp=sharing" target="_blank">My Resume</a><br>📫 How to reach me aditiamrut@gmail.com.<br>⚡ Fun fact I am a singer and foodie as well!
 
 <br>
 <img align="right" alt="coding" width="400" src ="https://i.pinimg.com/originals/c4/95/14/c495143c99f68bd9e5c161882216e9d7.gif">
