@@ -22,11 +22,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aditiprusty&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-## 📈Github Activity
-
-[![AditiPrusty's GitHub | Languages Over Time](https://stats.quine.sh/aditiprusty/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aditiprusty)
-
-[![AditiPrusty's GitHub | Topics Over Time](https://stats.quine.sh/aditiprusty/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aditiprusty)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=aditiprusty)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
