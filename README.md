@@ -4,10 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditiprusty&label=Profile%20views&color=0e75b6&style=flat" alt="aditiprusty" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aditiprusty" target="blank"><img src="https://img.shields.io/twitter/follow/aditiprusty?logo=twitter&style=for-the-badge" alt="aditiprusty" /></a> </p>
-
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div>
     
+<img align="right" alt="coding" width="300" src ="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif" style="max-width: 300;">
+
 - 🔭 I’m a Software Developer **and currently working on AI related projects.**
 
 - 🌱 I have hands on experience in **Java, Kotlin, C, Python, Full Stack Web Dev.**
@@ -17,16 +16,13 @@
 - 📫 How to reach me **aditiamrut@gmail.com**
 
 - ⚡ Fun fact **I am a singer and a big time foodie!**
-  </div>
-  <div>
-        <img alt="coding" width="250" src ="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif" style="max-width: 300;">
-  </div>
-</div>
+        
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aditiprusty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditiprusty" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditiprusty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditiprusty" height="30" width="40" /></a>
 <a href="https://instagram.com/aditiiiprusty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditiiiprusty" height="30" width="40" /></a>
+<a href="https://in.pinterest.com/aditiprusty11/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" alt="aditiiiprusty" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
