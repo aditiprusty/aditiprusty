@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditi Prusty</h1>
-<h3 align="center">An enthusiastic Coder from India</h3>
+<h3 align="center">An enthusiastic Coder</h3>
 <h6 align="center"><img alt="coding" width="300" src ="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif"></h6>
 
 # 💫 About Me:
-🔭 I’m currently working on Projects related to Web Development.<br>🌱 I’m a Full Stack developer and currently I'm polishing my skills on Back-End Development.<br>💬 Ask me about HTML, CSS, Java, Kotlin, C, Python.<br>📄 Know about my experiences : <a href="https://drive.google.com/file/d/1QfyRP2MoOmVc39prBCESG5U7aYkKipns/view?usp=sharing" target="_blank">My Resume</a><br>📫 How to reach me aditiamrut@gmail.com.<br>⚡ Fun fact I am a singer and a big time foodie!
+🌱 I’m a Full Stack developer and currently I'm polishing my skills on Back-End Development.<br>💬 Ask me about HTML, CSS, Java, Kotlin, C, Python.<br>📫 How to reach me aditiamrut@gmail.com.<br>⚡ Fun fact I am a singer and a big time foodie!
 
 <br>
 <img align="right" alt="coding" width="400" src ="https://i.pinimg.com/originals/c4/95/14/c495143c99f68bd9e5c161882216e9d7.gif">
@@ -19,12 +19,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aditiprusty&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditiprusty&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aditiprusty&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=aditiprusty)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
