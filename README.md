@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aditiprusty" target="blank"><img src="https://img.shields.io/twitter/follow/aditiprusty?logo=twitter&style=for-the-badge" alt="aditiprusty" /></a> </p>
 
-<table >
+<table style="border:none;">
   <tr>
   <td>
 
