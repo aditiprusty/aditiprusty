@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/aditiprusty" target="blank"><img src="https://img.shields.io/twitter/follow/aditiprusty?logo=twitter&style=for-the-badge" alt="aditiprusty" /></a> </p>
 
+<table >
+  <tr>
+  <td>
+
 - 🔭 I’m a Software Developer **and currently working on AI related projects.**
 
 - 🌱 I have hands on experience in **Java, Kotlin, C, Python, Full Stack Web Dev.**
@@ -14,9 +18,12 @@
 - 📫 How to reach me **aditiamrut@gmail.com**
 
 - ⚡ Fun fact **I am a singer and a big time foodie!**
-
-<h6 align="right"><img alt="coding" width="300" src ="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif"></h6>
-<br>
+  </td>
+  <td>
+    <h6 align="right"><img alt="coding" width="300" src ="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif"></h6>
+  </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
