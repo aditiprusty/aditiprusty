@@ -5,10 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/aditiprusty" target="blank"><img src="https://img.shields.io/twitter/follow/aditiprusty?logo=twitter&style=for-the-badge" alt="aditiprusty" /></a> </p>
 
-<table style="border:none;">
-  <tr>
-  <td>
-
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div>
+    
 - 🔭 I’m a Software Developer **and currently working on AI related projects.**
 
 - 🌱 I have hands on experience in **Java, Kotlin, C, Python, Full Stack Web Dev.**
@@ -18,13 +17,11 @@
 - 📫 How to reach me **aditiamrut@gmail.com**
 
 - ⚡ Fun fact **I am a singer and a big time foodie!**
-  </td>
-  <td>
-    <h6 align="right"><img alt="coding" width="300" src ="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif"></h6>
-  </td>
-  </tr>
-</table>
-
+  </div>
+  <div>
+        <img alt="coding" width="250" src ="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif" style="max-width: 300;">
+  </div>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aditiprusty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditiprusty" height="30" width="40" /></a>
